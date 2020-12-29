@@ -1,18 +1,22 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class MainTile : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+public class MainTile : MonoBehaviour {
+    [SerializeField] GameObject TileDefault;
+
+    public void OnMouseDown() {
+        if (TileDefault.activeSelf) {
+            TileDefault.SetActive(false);
+        }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    int _id;
+
+    public int id {
+        get { return _id; }
+    }
+
+    public void ChangeSprite(int id, Sprite image) {
+        _id = id;
+        GetComponent<SpriteRenderer>().sprite = image;
     }
 }
