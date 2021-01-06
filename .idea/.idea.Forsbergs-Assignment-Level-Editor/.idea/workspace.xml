@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="732a65ea-3633-4d78-94b0-db22a01d23e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Button.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Button.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Forsbergs-Assignment-Level-Editor/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Forsbergs-Assignment-Level-Editor/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Forsbergs-Assignment-Level-Editor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Forsbergs-Assignment-Level-Editor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EditorScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/EditorScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Blue.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Blue.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Green.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Green.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tiles.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tiles.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +32,13 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/MainTile.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/SceneController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Button.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1mKxYwTmEcHRf3FQde8hiB9w7Dv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
   </component>
@@ -36,6 +47,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -75,6 +87,7 @@
       <workItem from="1609259700519" duration="9000" />
       <workItem from="1609259735954" duration="165000" />
       <workItem from="1609778600736" duration="1201000" />
+      <workItem from="1609930675373" duration="2049000" />
     </task>
     <servers />
   </component>
@@ -96,6 +109,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
