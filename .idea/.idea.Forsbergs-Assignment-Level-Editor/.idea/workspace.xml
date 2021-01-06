@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="732a65ea-3633-4d78-94b0-db22a01d23e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainTile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainTile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SceneController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SceneController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Forsbergs-Assignment-Level-Editor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Forsbergs-Assignment-Level-Editor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EditorScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/EditorScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +73,8 @@
       <updated>1609256139596</updated>
       <workItem from="1609256149111" duration="3423000" />
       <workItem from="1609259700519" duration="9000" />
+      <workItem from="1609259735954" duration="165000" />
+      <workItem from="1609778600736" duration="1201000" />
     </task>
     <servers />
   </component>
